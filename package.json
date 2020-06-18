@@ -1,0 +1,12 @@
+{
+  "name": "webNote",
+  "version": "1.0.0",
+  "description": "note",
+  "main": "index.js",
+  "repository": "https://github.com/rainCychen/webNote.git",
+  "author": "rainCychen",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.2"
+  }
+}
