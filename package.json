@@ -6,6 +6,11 @@
   "repository": "https://github.com/rainCychen/webNote.git",
   "author": "rainCychen",
   "license": "MIT",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs",
+    "deploy": "sh build.sh"
+  },
   "devDependencies": {
     "vuepress": "^1.5.2"
   }
